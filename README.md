@@ -1,33 +1,288 @@
-<h1 align="center">Hi 👋, I'm Krishna Varshney</h1>
-<h3 align="center">Aspiring Data Scientist focused in Python with good analytical skills and having hands on experience on various Front-end and Back-end technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnavarshney&label=Profile%20views&color=0e75b6&style=flat" alt="krishnavarshney" /> </p>
+<!-- ======================= HERO BANNER ======================= -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnavarshney" alt="krishnavarshney" /></a> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=krishnavarshney)](https://github.com/krishnavarshney/github-profile-trophy)
-
-- 🔭 I’m currently working on **Python Data Applications**
-
-- 🌱 I’m currently learning **Streamlit & Taipy**
-
-- 👨‍💻 All of my projects are available at [https://kkvarshney.streamlit.app/](https://kkvarshney.streamlit.app/)
-
-- 📫 How to reach me **krishnavarshney@outlook.com**
-
-- ⚡ Fun fact **I love making music & playing pool sometimes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/krishnav123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishnav123" height="30" width="40" /></a>
-<a href="https://kaggle.com/krishvarshney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="krishvarshney" height="30" width="40" /></a>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<h1 align="center">Krishna Varshney</h1>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krishnavarshney&show_icons=true&locale=en&layout=compact" alt="krishnavarshney" /></p>
+<p align="center">
+<b>AI Systems Engineer • Insurance Intelligence • RAG & Decision Platforms</b>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krishnavarshney&show_icons=true&locale=en" alt="krishnavarshney" /></p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=krishnavarshney&style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-RAG-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Domain-Insurance%20AI-darkgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Decision%20Systems-orange?style=for-the-badge"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krishnavarshney&" alt="krishnavarshney" /></p>
+---
+
+> I build production AI systems that turn messy operational data into decision‑grade tools — resolution engines, insurance intelligence platforms, pricing analytics, and deployable AI applications.
+
+---
+
+# Profile — What Defines My Work
+
+| Axis | Strength |
+|------|----------|
+| Core Work | Production AI & Analytics Systems |
+| Niche | Insurance Intelligence + Resolution Engines |
+| Architectures | LLM + RAG + Semantic Matching |
+| Modeling | Pricing, Cohort, GLM-style pipelines |
+| Delivery | Deployable, auditable, reproducible |
+| Portfolio | https://kkvarshney.streamlit.app |
+| Contact | krishnavarshney@outlook.com |
+
+---
+
+# What I Build
+
+- AI-driven analytics platforms  
+- Insurance knowledge LLM systems  
+- Resolution & adjudication engines  
+- Pricing & cohort analytics pipelines  
+- Automation & extraction frameworks  
+- Deployable analytical apps  
+- Secure AI backends  
+
+---
+
+# Flagship Systems — Selected Work
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Pivotal Pro AI
+Enterprise AI Business Intelligence platform  
+AI insights + rule engine + secure backend
+
+**Stack:** NestJS · Prisma · TypeScript · AI proxy
+
+</td>
+<td width="50%">
+
+### 🤖 MotorMate AI
+Insurance LLM + RAG knowledge system  
+Semantic search + reranking + private embeddings
+
+**Stack:** Python · LlamaIndex · ChromaDB · Ollama
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 MMV Resolution Engine
+Motor Make/Model/Variant resolver  
+Hybrid semantic + deterministic adjudication
+
+**Domain:** Insurance AI · Resolution Logic
+
+</td>
+<td width="50%">
+
+### 🌐 Intelligent WebCrawler
+Automation & structured extraction engine  
+Dynamic UI interaction + multi-format export
+
+**Stack:** Python · Playwright
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏢 Workspace AI
+Google Workspace copilot  
+Conversational workflow automation
+
+**Stack:** Next.js · Vercel AI SDK · Postgres
+
+</td>
+<td width="50%">
+
+**Live Apps & Demos →**  
+https://kkvarshney.streamlit.app
+
+</td>
+</tr>
+</table>
+
+---
+
+# Engineering Method
+
+1. Define decision objective first  
+2. Build minimal reproducible pipeline  
+3. Add validation and audit layers  
+4. Establish interpretable baseline  
+5. Deliver usable interface  
+6. Add monitoring hooks  
+
+---
+
+# Technology Stack
+
+## Core
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,nextjs,nestjs,postgres,mysql,docker" />
+</p>
+
+## AI & Data
+
+- pandas  
+- NumPy  
+- scikit-learn  
+- PyTorch  
+- LlamaIndex  
+- ChromaDB  
+- Ollama  
+
+---
+
+# Project Cards
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=Pivotal-Pro-AI" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=MotorMate-AI" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=Workspace-AI" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=MMV-Resolution-Engine" />
+</p>
+
+---
+
+# GitHub Metrics
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/krishnavarshney">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=krishnavarshney&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/krishnavarshney">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=krishnavarshney&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/krishnavarshney/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=krishnavarshney&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/krishnavarshney">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=krishnavarshney&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+---
+
+# Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnavarshney"/>
+</p>
+
+---
+
+# Demo Assets To Add
+
+Create an `/assets` folder and add:
+
+- banner.png  
+- skills.gif  
+- pivotal.gif  
+- motormate.gif  
+- mmv.gif  
+
+Embed example:
+
+![Demo](./assets/pivotal.gif)
+
+---
+
+# Run Instructions
+
+## Python Apps
+
+```bash
+git clone <repo>
+python -m venv .venv
+source .venv/bin/activate
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Next.js Apps
+
+```bash
+pnpm install
+pnpm dev
+```
+
+---
+
+# What I’m Best Used For
+
+- RAG + LLM knowledge systems  
+- Insurance analytics & resolution engines  
+- Pricing and cohort modeling pipelines  
+- AI-backed decision tools  
+- Domain logic → working systems  
+
+---
+
+# Collaboration Scope
+
+| Area | Engagement |
+|------|------------|
+| AI Platforms | RAG + LLM systems |
+| Insurance Intelligence | Resolution & pricing engines |
+| Analytics Systems | Decision tools & dashboards |
+| Architecture | Pipeline & model governance |
+
+---
+
+# Connect
+
+- LinkedIn: https://linkedin.com/in/krishnav123  
+- Kaggle: https://kaggle.com/krishvarshney  
+- Portfolio: https://kkvarshney.streamlit.app  
+- Email: krishnavarshney@outlook.com  
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer"/>
+</p>
