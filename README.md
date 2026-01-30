@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnavarshney" alt="krishnavarshney" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=krishnavarshney)](https://github.com/krishnavarshney/github-profile-trophy)
+
 - 🔭 I’m currently working on **Python Data Applications**
 
 - 🌱 I’m currently learning **Streamlit & Taipy**
