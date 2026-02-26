@@ -214,18 +214,6 @@ https://kkvarshney.streamlit.app
 
 ---
 
-# Demo Assets To Add
-
-Create an `/assets` folder and add:
-
-- banner.png  
-- skills.gif  
-- pivotal.gif  
-- motormate.gif  
-- mmv.gif  
-
-Embed example:
-
 <img src="./assets/Skills_Animation_White.gif">
 
 ---
