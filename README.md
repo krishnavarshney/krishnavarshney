@@ -5,8 +5,6 @@
   <img src="./assets/github-header-banner.png" width="100%" />
 </p>
 
-<h1 align="center">Krishna Varshney</h1>
-
 <p align="center">
 <b>AI Systems Engineer • Insurance Intelligence • RAG & Decision Platforms</b>
 </p>
