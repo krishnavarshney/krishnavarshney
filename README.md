@@ -2,7 +2,7 @@
 <!-- ======================= HERO BANNER ======================= -->
 
 <p align="center">
-  <img src="./assets/banner.png" width="100%" />
+  <img src="./assets/github-header-banner.png" width="100%" />
 </p>
 
 <h1 align="center">Krishna Varshney</h1>
@@ -99,7 +99,7 @@ Dynamic UI interaction + multi-format export
 <td width="50%">
 
 ### 🏢 Workspace AI
-Google Workspace copilot  
+Google Workspace Copilot  
 Conversational workflow automation
 
 **Stack:** Next.js · Vercel AI SDK · Postgres
@@ -118,10 +118,10 @@ https://kkvarshney.streamlit.app
 
 # Engineering Method
 
-1. Define decision objective first  
-2. Build minimal reproducible pipeline  
+1. Define the decision objective first  
+2. Build a minimal reproducible pipeline  
 3. Add validation and audit layers  
-4. Establish interpretable baseline  
+4. Establish an interpretable baseline  
 5. Deliver usable interface  
 6. Add monitoring hooks  
 
@@ -150,13 +150,13 @@ https://kkvarshney.streamlit.app
 # Project Cards
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=Pivotal-Pro-AI" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=MotorMate-AI" />
+<a href="https://github.com/krishnavarshney/Pivotal-Pro-AI"><img src="https://gh-card.dev/repos/krishnavarshney/Pivotal-Pro-AI.svg"></a>
+<a href="https://github.com/krishnavarshney/MotorMate-AI"><img src="https://gh-card.dev/repos/krishnavarshney/MotorMate-AI.svg"></a>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=Workspace-AI" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=krishnavarshney&repo=MMV-Resolution-Engine" />
+<a href="https://github.com/krishnavarshney/MotorMate-AI"><img src="https://gh-card.dev/repos/krishnavarshney/Workspace-AI.svg"></a>
+<a href="https://github.com/krishnavarshney/MotorMate-AI"><img src="https://gh-card.dev/repos/krishnavarshney/MMV-Resolution-Engine.svg"></a>
 </p>
 
 ---
@@ -228,7 +228,7 @@ Create an `/assets` folder and add:
 
 Embed example:
 
-![Demo](./assets/pivotal.gif)
+<img src="./assets/Skills_Animation_White.gif">
 
 ---
 
