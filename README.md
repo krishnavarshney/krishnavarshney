@@ -73,15 +73,7 @@ Semantic search + reranking + private embeddings
 </tr>
 
 <tr>
-<td width="50%">
 
-### 🚗 MMV Resolution Engine
-Motor Make/Model/Variant resolver  
-Hybrid semantic + deterministic adjudication
-
-**Domain:** Insurance AI · Resolution Logic
-
-</td>
 <td width="50%">
 
 ### 🌐 Intelligent WebCrawler
